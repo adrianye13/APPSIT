@@ -62,7 +62,7 @@
   
     <!-- Contenido adicional de tu aplicación aquí -->
     <div class="flex space-x-4">
-    <div class="bg-cyan-800 rounded-full  p-6 w-44 h-44 sm:w-72 sm:h-72 " >
+    <div class="bg-cyan-800 rounded-full  p-6 w-44 h-44 sm:w-72 sm:h-72 mx-auto" >
   <div class="text-lg font-bold font-['centaur'] text-center mb-2 text-gray-800 sm:text-3xl">
     {{ customTitles.ISC }}
   </div>
@@ -107,7 +107,7 @@
 <br>
 
 <div class="flex space-x-4">
-    <div class="bg-cyan-800 rounded-full shadow-md p-6 w-44 h-44 sm:w-72 sm:h-72  ">
+    <div class="bg-cyan-800 rounded-full shadow-md p-6 w-44 h-44 sm:w-72 sm:h-72  mx-auto">
   <div class="text-lg font-bold font-['centaur'] text-center mb-2 text-gray-800 sm:text-3xl">
     {{ customTitles.IE }}
   </div>
